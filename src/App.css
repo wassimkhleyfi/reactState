@@ -1,0 +1,48 @@
+.App{
+  border: 1px solid;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 900px;
+  height: 820px;
+  margin-left: 250px;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+  
+}
+
+.profile {
+  margin-top: 50px;
+  margin-left: 1px;
+  margin-right: 1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+h1 {
+color : red;
+font-size : 25px;
+font-weight: 500;
+font-family :"Comic Sans MS", cursive, sans-serif;
+
+}
+ 
+h1 span {
+ color : blue;
+ text-decoration: none;
+
+}
+
+.bottom {
+ margin-top: 20px;
+  background-color: #4CAF50; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+   font-size: 16px;
+   width: 200px;
+     height: 50px;
+}
